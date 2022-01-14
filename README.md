@@ -138,7 +138,7 @@ Follow the steps below to get started with the project's development environment
  -----------------------------------------------------------------
  
 ## Development Process and Problem-solving Strategy:
-Firstly, Me and @Walaalshaikh brainstormed some ideas related to the requirement of the app and then took a general idea of the design and the mechanisim of some popular apps from app store
+Firstly, Me and @mohammed-aloufi brainstormed some ideas related to the requirement of the app and then took a general idea of the design and the mechanisim of some popular apps from app store
 Secondly, We designed a logo according to the purpose of the app and gave it name.
 Thirdly,We designed the screens each of them suitable for a specific action using the Figma and Photoshop,after that I statred programming the app using the android studio by dividing the project into several tasks to work on it: at first, I installed the required libraries and dependencies .
 As for the obstacles that we faced,first we needed to decide the nature of the error (if it's syntax, runtime or logical), and then find the solution accordingly.Such solutions that can be disovered when debugging the error, using (Log.d)to specifty the location of the error, searching for similar cases online in [stackoverflow](https://stackoverflow.com/) and asking for the help of the experts.
